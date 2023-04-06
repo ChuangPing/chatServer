@@ -1,0 +1,9 @@
+login: msgid:1
+{"msgid":1,"id":1,"password":"123456"}
+{"msgid":1,"id":2,"password":"123456"}
+reg: msgid: 3
+{"msgid":3,"name":"lisi","password":"123456"}
+oneChat: msgid:5
+{"msgid":5,"id":1,"from":"zhangsan", "to":2, "msg":"hello lisi! I am zhangsan."}
+addFriend: msgid:6
+{"msgid":6, "id": 1, "friendid": 2}

@@ -1,0 +1,3 @@
+/home/chuanping/c++/chatServer/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/chuanping/c++/chatServer/testmuduo/build/CMakeFiles/server.dir
+/home/chuanping/c++/chatServer/testmuduo/build/CMakeFiles/edit_cache.dir
