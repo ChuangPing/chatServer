@@ -4,7 +4,7 @@ C++集群聊天服务器和客户端源代码
 
 ### 项目编译方式
 cd build  
-rm -rh *  
+rm -rf *  
 cmake ..  
 make  
 或者  
